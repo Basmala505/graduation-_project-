@@ -1,6 +1,6 @@
-# easysuger
+# Easy Suger
 
-A new Flutter project.
+Easy Suger is a mobile app that Helps diabetics organize their lives and predict the appropriate insulin dose for each patient
 
 ## Getting Started
 
